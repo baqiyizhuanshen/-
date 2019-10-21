@@ -11,6 +11,9 @@ word count
 
 输入命令统计字符数
 
+·![avatar](https://github.com/baqiyizhuanshen/-/blob/master/QQ%E5%9B%BE%E7%89%8720191021180652.png)
+
+
 输入命令统计单词数
 
 输入命令统计句子数
